@@ -61,7 +61,6 @@
     - Keine Begrenzung der Anzahl von Personen, die gleichzeitig denselben Raum betreten können
     - Kein Kontext der gespeicherten Daten
 
-[! [Namelss-Screenshot] [Produkt-Screenshot]] (https://namelss.com)
 
 ### Anwendungsfälle
 * Ein Manager, der Feedback von seinen Teammitgliedern erhält
@@ -70,7 +69,7 @@
 * Weitere reale Szenarien, die Sie sich vorstellen können ...
 
 ### Warum wird es benötigt?
-* Angesichts der Tatsache, dass bereits eine Reihe anonymer Feedback-Tools verfügbar sind, ist das Besondere an Namelss die Fähigkeit, in Echtzeit zu interagieren und anonym zu bleiben.
+* Angesichts der Tatsache, dass bereits eine Reihe anonymer Feedback-Tools verfügbar sind, ist das Besondere an [Anonymos Feedback Hub] die Fähigkeit, in Echtzeit zu interagieren und anonym zu bleiben.
 * Google Forms · 15Five · Officevibe · TinyPulse · Qualtrics usw. ermöglichen keine Interaktion in Echtzeit.
 
 ### Built With

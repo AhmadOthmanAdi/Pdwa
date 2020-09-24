@@ -122,8 +122,8 @@ export default class Bubble extends Component {
           {this.getChatBubbles()}
           <div className="encrypted-msg">
             <p>
-              <MdLock /> All chats are end to end encrypted. <br />
-              Not even namelss can understand them
+              <MdLock /> Alle Chats werden durchgehend verschlüsselt. <br />
+               Nicht einmal uns können sie verstehen
             </p>
           </div>
         </ScrollToBottom>
