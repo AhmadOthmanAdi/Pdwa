@@ -95,6 +95,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
+https://github.com/mino-cmd/Pdwa.git
 ```
 3. Install NPM packages
 ```sh
