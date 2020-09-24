@@ -1,28 +1,17 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/047a0bd7-2703-48ca-8bd8-07b1151857c4/deploy-status)](https://app.netlify.com/sites/namelessapp/deploys)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="public/assets/images/anonymous.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Nameléss</h3>
+  <h3 align="center">Anonymes Feedback Hub</h3>
 
   <p align="center">
     An anonymous feedback platform with realtime chat support !
     <br />
-    <a href="https://namelss.com"><strong>Launch app »</strong></a>
+    <a href="https://Adiothman.com"><strong>Porfolio »</strong></a>
     <br />
     <br />
-    <a href="https://docs.google.com/document/d/1Yhp8g4n9ISx1rKzYzL-qt9fs8BNQRiLf0agn9uY8sFk/edit">ADR doc</a>
+    <a href="https://1drv.ms/w/s!Aollgz5UAL6hg41zcUdgJch2VCnqFQ?e=pVg065">ADR documentation</a>
     ·
    
   </p>
