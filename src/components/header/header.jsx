@@ -28,9 +28,9 @@ export default class Header extends Component {
       detailsPage: this.props.detailsPage,
       title: this.props.title || "",
       invite:
-        "Hey there, i am waiting for you in namelss room. ⌛ \nPlease join here :\n\n" +
-          window.location.origin +
-          this.props.pathname || window.location.origin,
+        "\n Bitte Diese Raum ID eingeben :\n\n" +
+        window.location.origin +
+        this.props.pathname || window.location.origin,
     };
   }
 
@@ -80,7 +80,7 @@ export default class Header extends Component {
         icon: <MdFeedback />,
         label: "Report issue",
         onClick: () => {
-          window.open("https://github.com/singhkshitij/nameless-ui/issues/new");
+          window.open("");
         },
       },
     ];
@@ -148,7 +148,7 @@ export default class Header extends Component {
             <IoLogoGithub
               className="github-icon"
               onClick={() =>
-                window.open("https://github.com/singhkshitij/nameless-ui")
+                window.open("")
               }
             />
             <CopyToClipboard text={this.state.invite} onCopy={notify}>

@@ -13,7 +13,6 @@ export default class Details extends Component {
   }
 
   lpStyle = {
-    background: 'url("/assets/images/background.svg")',
     backgroundPosition: "100%",
     backgroundRepeat: "no-repeat",
     backgroundAttachment: "fixed",
@@ -28,7 +27,7 @@ export default class Details extends Component {
   render() {
     return (
       <div className="details-page" style={this.lpStyle}>
-        <Header detailsPage title={this.state.takeFeedback ? "Create room" : "Join room"} />
+        <Header detailsPage title={this.state.takeFeedback ? "Raum Erstellen" : "Raum Eintreten"} />
         <div className="details-container">
           <div className="floating-card">
             {this.state.takeFeedback ? <Take /> : <Give />}

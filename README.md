@@ -11,7 +11,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/singhkshitij/nameless-ui">
     <img src="public/assets/images/anonymous.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -25,11 +24,7 @@
     <br />
     <a href="https://docs.google.com/document/d/1Yhp8g4n9ISx1rKzYzL-qt9fs8BNQRiLf0agn9uY8sFk/edit">ADR doc</a>
     ·
-    <a href="https://github.com/singhkshitij/nameless-ui/issues/">Report Bug</a>
-    ·
-    <a href="https://github.com/singhkshitij/nameless-ui/issues/new">Request Feature</a>
-    ·
-    <a href="https://github.com/singhkshitij/nameless">Backend</a>
+   
   </p>
 </p>
 
@@ -113,7 +108,6 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/singhkshitij/nameless-ui.git
 ```
 3. Install NPM packages
 ```sh
@@ -128,7 +122,6 @@ npm start
 ## Roadmap
 To check what is in progress and about to get delivered, head over to the [ADR doc](https://docs.google.com/document/d/1Yhp8g4n9ISx1rKzYzL-qt9fs8BNQRiLf0agn9uY8sFk/edit#heading=h.a4u119gnl3b7).
 
-See the [open issues](https://github.com/singhkshitij/nameless-ui/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -145,12 +138,11 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/singhkshitij/nameless-ui/blob/master/LICENSE) for more information.
+
 
 <!-- CONTACT -->
 ## Contact
 
-Kshitij Singh - [@ikshitijsingh](https://twitter.com/ikshitijsingh) - <a href="mailto:singh_kshitij@yahoo.com">Email</a>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -158,18 +150,3 @@ Kshitij Singh - [@ikshitijsingh](https://twitter.com/ikshitijsingh) - <a href="m
 * Logo by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> Flaticon</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/singhkshitij/nameless-ui.svg?style=flat-square
-[contributors-url]: https://github.com/singhkshitij/nameless-ui/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/singhkshitij/nameless-ui.svg?style=flat-square
-[forks-url]: https://github.com/singhkshitij/nameless-ui/network/members
-[stars-shield]: https://img.shields.io/github/stars/singhkshitij/nameless-ui.svg?style=flat-square
-[stars-url]: https://github.com/singhkshitij/nameless-ui/stargazers
-[issues-shield]: https://img.shields.io/github/issues/singhkshitij/nameless-ui.svg?style=flat-square
-[issues-url]: https://github.com/singhkshitij/nameless-ui/issues
-[license-shield]: https://img.shields.io/github/license/singhkshitij/nameless-ui.svg?style=flat-square
-[license-url]: https://github.com/singhkshitij/nameless-ui/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ikshitijsingh/
-[product-screenshot]: https://github.com/singhkshitij/nameless-ui/blob/master/namelss-ss.png
-[namelss-pwa]: https://github.com/singhkshitij/nameless-ui/blob/master/namelss-pwa.png

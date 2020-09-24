@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 export default class Dashboard extends Component {
   lpStyle = {
-    background: 'url("/assets/images/background.svg")',
+    background: 'url("/assets/")',
     backgroundPosition: "100%",
     backgroundRepeat: "no-repeat",
     backgroundAttachment: "fixed",
@@ -24,12 +24,11 @@ export default class Dashboard extends Component {
     return [
       <div className="left" key="landingpage">
         <div className="centered" key="centered">
-          <Heading text="nameléss" withIcon="/assets/images/anonymous.png" />
           <Spacer space="20px" />
           <SubHeading text="An realtime feedback messenger" size="1.5em" />
           <Spacer space="20px" />
           <SubHeading
-            text="🚫 No login required · 🎭 Go Anonymous"
+            text="No login required · Anonymous"
             size="1em"
             color="#263238"
           />
@@ -42,7 +41,7 @@ export default class Dashboard extends Component {
               },
             }}
           >
-            <Button text="Take feedback" />
+            <Button text="Feedback Raum Host" />
           </Link>
           <Link
             to={{
@@ -52,27 +51,15 @@ export default class Dashboard extends Component {
               },
             }}
           >
-            <Button text="Give feedback" />
+            <Button text="Feedback Raum eintreten" />
           </Link>
-          <a
-            href="https://www.producthunt.com/posts/namelss?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-namelss"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=242938&theme=dark"
-              alt="Namelss - An anonymous feedback platform with realtime chat rooms !  | Product Hunt Embed"
-              width="220px"
-              height="50px"
-            />
-          </a>
+
         </div>
       </div>,
       <div className="right" key="right">
         <div className="centered">
           <img
-            src="/assets/images/users.svg"
-            alt="illustration"
+            alt="TODO: Background of Users"
             style={{ width: "140%", height: "140%" }}
           />
         </div>

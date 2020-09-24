@@ -88,7 +88,7 @@ export default class Give extends Component {
         <FiHelpCircle />
       </p>,
       <TextField
-        label="Enter room Id"
+        label="Raum ID eingeben"
         helperText={<HelperText></HelperText>}
         onTrailingIconSelect={() => this.setState({ error: "", roomId: "" })}
         leadingIcon={<FcKey />}
@@ -103,7 +103,7 @@ export default class Give extends Component {
       </TextField>,
       <TextField
         label="Name"
-        helperText={<HelperText>Try something funny..</HelperText>}
+        helperText={<HelperText>Versuche etwas Kreative</HelperText>}
         onTrailingIconSelect={() => this.setState({ hostName: "" })}
         leadingIcon={<FcPortraitMode />}
         trailingIcon={<MdClearAll />}
@@ -117,7 +117,7 @@ export default class Give extends Component {
       </TextField>,
       <Button
         disabled={this.state.roomId && this.state.hostName ? false : true}
-        text="Join room"
+        text="Raum Eintreten"
         callback={this.checkRoomExists}
         key="giveButton"
       />,
@@ -143,8 +143,8 @@ export default class Give extends Component {
         key="giveHelpTooltip"
       >
         <ul>
-          <li>Enter joining room id</li>
-          <li>Enter some random name, maybe a superhero</li>
+          <li>Bitte fragen sie Ihre Unternehmens Partner nach die Raum ID</li>
+          <li>Einen Random name oder etwas dich bezeichent eingeben</li>
         </ul>
       </ReactTooltip>,
     ];

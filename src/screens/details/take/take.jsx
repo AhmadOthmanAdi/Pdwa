@@ -81,8 +81,8 @@ export default class Take extends Component {
         <FiHelpCircle />
       </p>,
       <TextField
-        label="Host name"
-        helperText={<HelperText>Be original!</HelperText>}
+        label="Host Name"
+        helperText={<HelperText>Sei kreative</HelperText>}
         onTrailingIconSelect={() => this.setState({ hostName: "" })}
         leadingIcon={<FcPortraitMode />}
         trailingIcon={<MdClearAll />}
@@ -96,7 +96,7 @@ export default class Take extends Component {
       </TextField>,
       <Button
         disabled={this.state.linkEnabled ? false : true}
-        text="Create room"
+        text="Raum Erstellen"
         callback={this.createRoom}
         key="buttontake"
       />,
@@ -122,7 +122,7 @@ export default class Take extends Component {
         aria-haspopup="true"
         key="taketooltip"
       >
-        <p>Enter host name. Keep it original !</p>
+        <p>Einen Host name Eingeben</p>
       </ReactTooltip>,
     ];
   }
