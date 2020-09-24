@@ -21,25 +21,25 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [Installation] (# Installation)
-* [Über das Projekt] (# Über das Projekt)
-   * [Usecases] (# Anwendungsfälle)
-   * [Gebaut mit] (# gebaut mit)
-   * [Warum wird es benötigt?] (# Warum-wird-es benötigt)
-* [Erste Schritte] (# Erste Schritte)
-   * [Voraussetzungen] (# Voraussetzungen)
-   * [Installation] (# Installation)
-* [Verwendung] (# Verwendung)
-* [Roadmap] (# Roadmap)
-* [Mitwirkende] (# Mitwirkende)
-* [Lizenz] (# Lizenz)
-* [Kontakt] (# Kontakt)
-* [Danksagung] (# Danksagung)
+
+* [Installation](#installation)
+* [About the Project](#about-the-project)
+  * [Usecases](#use-cases)
+  * [Built With](#built-with)
+  * [Why is it needed?](#why-is-it-needed) 
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 ## Installation
-(Ja, es reagiert)
+(Yes, it is responsive)
 * Da es sich auch um [PWA] handelt (https://love2dev.com/blog/progressive-web-app-features/), können Sie es als leichtgewichtige App auf jedem mobilen / Desktop-Gerät installieren. Klicken Sie einfach auf ** Zum Startbildschirm hinzufügen **, wenn Sie es sehen.
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -130,7 +130,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT -->
 ## Contact
-
+https://www.Adiothman.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
