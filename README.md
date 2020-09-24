@@ -21,26 +21,25 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
-* [Installation](#installation)
-* [About the Project](#about-the-project)
-  * [Usecases](#use-cases)
-  * [Built With](#built-with)
-  * [Why is it needed?](#why-is-it-needed) 
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Installation] (# Installation)
+* [Über das Projekt] (# Über das Projekt)
+   * [Usecases] (# Anwendungsfälle)
+   * [Gebaut mit] (# gebaut mit)
+   * [Warum wird es benötigt?] (# Warum-wird-es benötigt)
+* [Erste Schritte] (# Erste Schritte)
+   * [Voraussetzungen] (# Voraussetzungen)
+   * [Installation] (# Installation)
+* [Verwendung] (# Verwendung)
+* [Roadmap] (# Roadmap)
+* [Mitwirkende] (# Mitwirkende)
+* [Lizenz] (# Lizenz)
+* [Kontakt] (# Kontakt)
+* [Danksagung] (# Danksagung)
 
 ## Installation
-* You can directly head over to <a href="http://namelss.com" target="_blank">namelss.com</a> on Desktop, tablet or mobile devices (Yes, it is responsive)
-* Since it is also [PWA](https://love2dev.com/blog/progressive-web-app-features/) , you can install it as an lightweight app on any Mobile/Desktop device. Just click on **Add to home screen** when you see it. 
-[![Namelss PWA][namelss-pwa]](https://namelss.com)
+(Ja, es reagiert)
+* Da es sich auch um [PWA] handelt (https://love2dev.com/blog/progressive-web-app-features/), können Sie es als leichtgewichtige App auf jedem mobilen / Desktop-Gerät installieren. Klicken Sie einfach auf ** Zum Startbildschirm hinzufügen **, wenn Sie es sehen.
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
