@@ -44,35 +44,35 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-* 🙅 No login/auth required by host or participants
-* 🎭 Participants can be totally anonymous
-* ✈️ Unlimited participants can join
-* 📥 Host can export feedbacks/chats as CSV
-* 🔒Host can lock room for entry when required participants has joined in.
-* ⏳Realtime chatrooms and sessions
+* 🙅 Keine Anmeldung / Authentifizierung durch Host oder Teilnehmer erforderlich
+* 🎭 Teilnehmer können völlig anonym sein
+* ✈️ Unbegrenzte Teilnehmer können teilnehmen
+* 📥 Der Host kann Feedbacks / Chats als CSV exportieren
+* 🔒Host kann den Raum für den Eintritt sperren, wenn die erforderlichen Teilnehmer teilgenommen haben.
+* ChatRealtime-Chatrooms und -Sitzungen
 
-### Bonus :
-* 📱App is a PWA so it can be installed on any device
-* 🔐 Conversations are E2E encrypted
-* 🕸️ Minimal UI
+### Bonus:
+* 📱App ist eine PWA, sodass sie auf jedem Gerät installiert werden kann
+* 🔐 Gespräche sind E2E-verschlüsselt
+* 🕸️ Minimale Benutzeroberfläche
 * 📟 Open Source
-* It helps with :
-    - People giving feedback can be totally anonymous
-    - Host can interact and introspect feedback with audience realtime
-    - No limit on number of people that can join the same room at a time
-    - No context of the data being stored
+* Es hilft bei:
+    - Personen, die Feedback geben, können völlig anonym sein
+    - Der Moderator kann in Echtzeit mit dem Publikum interagieren und Feedback geben
+    - Keine Begrenzung der Anzahl von Personen, die gleichzeitig denselben Raum betreten können
+    - Kein Kontext der gespeicherten Daten
 
-[![Namelss Screen Shot][product-screenshot]](https://namelss.com)
+[! [Namelss-Screenshot] [Produkt-Screenshot]] (https://namelss.com)
 
-### Use Cases
-* A manager taking feedback from their team members
-* A online teacher requesting feedback from students
-* Post presentation feedbacks in conferences
-* More real world scenarios you can think of...
+### Anwendungsfälle
+* Ein Manager, der Feedback von seinen Teammitgliedern erhält
+* Ein Online-Lehrer, der um Feedback von Schülern bittet
+* Präsentationsfeedbacks in Konferenzen veröffentlichen
+* Weitere reale Szenarien, die Sie sich vorstellen können ...
 
-### Why is it needed? 
-* Given that there are number of anonymous feedback tools already available, what make Namelss unique is its ability to interact real time while being anonymous.
-* Google forms · 15Five · ‎Officevibe · ‎TinyPulse · ‎Qualtrics etc do not allow you to interact realtime. 
+### Warum wird es benötigt?
+* Angesichts der Tatsache, dass bereits eine Reihe anonymer Feedback-Tools verfügbar sind, ist das Besondere an Namelss die Fähigkeit, in Echtzeit zu interagieren und anonym zu bleiben.
+* Google Forms · 15Five · Officevibe · TinyPulse · Qualtrics usw. ermöglichen keine Interaktion in Echtzeit.
 
 ### Built With
 Tech stack used : 
